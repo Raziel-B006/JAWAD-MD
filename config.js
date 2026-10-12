@@ -32,7 +32,7 @@ BAD_WORDS: process.env.BAD_WORDS || "null, pm, dm, idiot", // Add Yours Separate
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 Auto Call Reject Mode Active. 📵 No Calls Allowed!_*",
 AUTO_REACT: process.env.AUTO_REACT || "false",
 BOT_NAME: process.env.BOT_NAME || "RAZIELBOT-MD", //  don't change 
-BOT_PIC: process.env.BOT_PIC || "https://raw.githubusercontent.com/Raziel-B006/JAWAD-MD/main/WA_1791802891724.jpeg", 
+BOT_PIC: process.env.BOT_PIC || "https://raw.githubusercontent.com/Raziel-B006/RAZIELBOT-MD/main/WA_1791802891724.jpeg", 
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 AUTO_BIO: process.env.AUTO_BIO || "false",
 AUTO_BIO_QUOTE: process.env.AUTO_BIO_QUOTE || "i am raziel md",
