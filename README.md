@@ -1,16 +1,16 @@
 <h1 align="center" style="font-family: 'Orbitron', sans-serif; font-size: 42px; color: #00FFFF; text-shadow: 4 0 10px #00FFFF, 0 0 25px #0088FF;">
-𝗝𝗔𝗪𝗔𝗗-𝗠𝗗
+𝗥𝗔𝗭𝗜𝗘𝗟𝗕𝗢𝗧-𝗠𝗗
 </h1>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=ULTIMATE+WHATSAPP+BOT;MULTI-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=4000&pause=1000&color=FF0000&center=true&vCenter=true&width=lines=RAZIELBOT-MD;ULTIMATE+WHATSAPP+BOT;BY+RAZIEL-DEVICE+SUPPORT;POWERED+BY+BAILEYS;FAST++SECURE++RELIABLE" alt="Typing SVG"/>
 </p>
 
 ---
 
-<h2 align="center">📊 JAWAD-MD Analytics </h2> 
+<h2 align="center">📊 RAZIELBOT-MD Analytics </h2> 
 
 ---
 
